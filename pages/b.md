@@ -1,7 +1,5 @@
 # Introduction
-Testing the figure issue solution
-
-![Face](/.eraser/6WUBhdmhECcsfldmNAqj___COhM4eGQDLNhTIbyCvIuV3v4eRWb___---figure---hLaCV5fzOZ5aRN761mxWrg.svg "Face")
+![FaceFigure](/.eraser/6WUBhdmhECcsfldmNAqj___COhM4eGQDLNhTIbyCvIuV3v4eRWb___---figure---h2drbP_xvA_Nm2_Hi9q2mA.svg "FaceFigure")
 
 
 
