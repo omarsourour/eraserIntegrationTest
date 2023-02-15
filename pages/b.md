@@ -1,18 +1,6 @@
-# Figure Test
-![RedCircle](/.eraser/Z7xAQrZfOeC0PwhKyfu4___xEhG0TD5YhSJQv60KschTbKNDjLW___---figure---9v71t613eTXkC2sNelYTlQ.svg "RedCircle")
-
-Some content here
+# Bismillah
+![Rects](/.eraser/FyfRjNOUYZWOHsGyF8L8___GULdFmGFwESt7DNlLh4epgWka2r2___---figure---npBU7xyND5BnDPQSGCcC3Q.svg "Rects")
 
 
 
-![Screenshot from 2023-02-11 15-28-56.png](/.eraser/Z7xAQrZfOeC0PwhKyfu4___xEhG0TD5YhSJQv60KschTbKNDjLW___WFWHLRfX2TwRrmy50gO0.png "Screenshot from 2023-02-11 15-28-56.png")
-
-
-
-And more content here
-
-![Screenshot from 2023-02-13 12-25-14.png](/.eraser/Z7xAQrZfOeC0PwhKyfu4___xEhG0TD5YhSJQv60KschTbKNDjLW___jM2qIkPc39hg7FNNl0Kx.png "Screenshot from 2023-02-13 12-25-14.png")
-
-
-
-<!--- Eraser file: http://localhost:3001/workspace/Z7xAQrZfOeC0PwhKyfu4 --->
+<!--- Eraser file: https://eraser-qa.web.app/workspace/FyfRjNOUYZWOHsGyF8L8 --->
