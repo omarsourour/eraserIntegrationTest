@@ -2,7 +2,7 @@
 # Introduction
 This document is to test the GitHub figure updating issue
 
-![NewFigure](/.eraser/4liN9LOLwAHbMobCWUq8___GULdFmGFwESt7DNlLh4epgWka2r2___---figure---1z9Qi8H67L8PjPfJ8FA95w.svg "NewFigure")
+![NoCacheFigure](/.eraser/4liN9LOLwAHbMobCWUq8___GULdFmGFwESt7DNlLh4epgWka2r2___---figure---Y7nkujzJXRto9A6Gt8gExg.svg "NoCacheFigure")
 
 
 
