@@ -2,7 +2,7 @@
 # Introduction
 This repository serves as a testing ground for the new GitHub integration feature on Eraser. I am using this to ensure that all features are correct.
 
-![AzureFigure](https://eraser.imgix.net/workspaces/2ORH1iCRZFhUeVIiXgrF/pWJsafGUPGaxHdHW0hYSfahwBBj2/---figure---dipvbl4HPf0daj-n51XKyg.svg?ixlib=js-3.7.0 "AzureFigure")
+![AzureFigure](/.eraser/2ORH1iCRZFhUeVIiXgrF___pWJsafGUPGaxHdHW0hYSfahwBBj2___---figure---dipvbl4HPf0daj-n51XKyg.svg "AzureFigure")
 
 # File linking test
 This is a link to a file on the repository: [﻿a.md](./pages/a.md).
