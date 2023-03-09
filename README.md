@@ -2,7 +2,7 @@
 # Intro
 Some random text here
 
-![HeyFigureWorld](./eraser/fJSxP1R41kk0Sq1rxpme___KGdl1cAserJoq4bKZfOinmthcISW___---figure---LAakdLEOh0EvKmWepCV9Gg.svg "HeyFigureWorld")
+![HeyFigureWorld](/.eraser/fJSxP1R41kk0Sq1rxpme___KGdl1cAserJoq4bKZfOinmthcISW___---figure---LAakdLEOh0EvKmWepCV9Gg.svg "HeyFigureWorld")
 
 More text here
 
