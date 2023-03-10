@@ -2,7 +2,9 @@
 # Introduction
 This document is to test the GitHub figure updating issue
 
-![NoCacheFigure](/.eraser/4liN9LOLwAHbMobCWUq8___GULdFmGFwESt7DNlLh4epgWka2r2___---figure---Y7nkujzJXRto9A6Gt8gExg.svg "NoCacheFigure")
+![NoCacheFigure](https://firebasestorage.googleapis.com/v0/b/eraser-qa.appspot.com/o/images%2Fworkspaces%2F4liN9LOLwAHbMobCWUq8%2FGULdFmGFwESt7DNlLh4epgWka2r2%2F---figure---Y7nkujzJXRto9A6Gt8gExg.svg?alt=media&token=f5d23f9e-33cf-46fd-8cb9-27b25a811f05 "NoCacheFigure")
+
+
 
 
 
