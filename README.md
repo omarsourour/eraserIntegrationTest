@@ -6,6 +6,10 @@ This document is to test the GitHub figure updating issue
 
 
 
+![Bananas.jpg](/.eraser/4liN9LOLwAHbMobCWUq8___GULdFmGFwESt7DNlLh4epgWka2r2___LLCWrRFVWwwPrAOg454I.jpg "Bananas.jpg")
+
+
+
 
 
 
