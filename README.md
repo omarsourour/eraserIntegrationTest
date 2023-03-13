@@ -1,3 +1,3 @@
 # Introduction
 
-Empty file!
+![Image](.eraser/test.svg)
