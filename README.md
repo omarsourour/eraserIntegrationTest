@@ -1,3 +1,3 @@
 # Introduction
 
-![Image](.eraser/test.svg)
+![Image](.eraser/test.svg?bust=1)
